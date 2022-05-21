@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/han/data/other/cpp/experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/experiment.dir/main.cpp.o -c /home/han/data/other/cpp/experiment/main.cpp",
+  "file": "/home/han/data/other/cpp/experiment/main.cpp"
+}
+]
